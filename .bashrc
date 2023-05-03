@@ -10,4 +10,4 @@ alias arsenicext='ssh flazouac@portier.polytech-lille.fr -p2222'
 
 export PATH=$PATH\:~/bin
 export PATH=$PATH:/usr/local/go/bin
- PS1='\[\e[0;94m\]\u\[\e[0m\]@\[\e[0m\]:\[\e[0;37m\]\H\[\e[0;38;5;34m\]\w\[\e[0;91m\]\$ \[\e[0m\]'
+PS1='\[\e[0;94m\]\u\[\e[0m\]@\[\e[0;96m\]\t\[\e[0m\]:\[\e[0;38;5;34m\]\w\[\e[0;91m\]\$\[\e[0m\]'
